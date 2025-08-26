@@ -1,3 +1,2 @@
-//js file
 
-
+conslone.log("JS is running correctly");
